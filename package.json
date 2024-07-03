@@ -1,0 +1,25 @@
+{
+    "name": "my-js-lib",
+    "version": "1.0.0",
+    "description": "A simple JavaScript library",
+    "main": "dist/bundle.js",
+    "scripts": {
+      "build": "webpack"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/username/my-js-lib.git"
+    },
+    "keywords": ["javascript", "library"],
+    "author": "Your Name",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/username/my-js-lib/issues"
+    },
+    "homepage": "https://github.com/username/my-js-lib#readme",
+    "devDependencies": {
+      "webpack": "^5.0.0",
+      "webpack-cli": "^4.0.0"
+    }
+  }
+  
