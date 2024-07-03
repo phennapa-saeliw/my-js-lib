@@ -8,15 +8,15 @@
     },
     "repository": {
       "type": "git",
-      "url": "https://github.com/username/my-js-lib.git"
+      "url": "https://github.com/phennapa-saeliw/my-js-lib.git"
     },
     "keywords": ["javascript", "library"],
     "author": "Your Name",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/username/my-js-lib/issues"
+      "url": "https://github.com/phennapa-saeliw/my-js-lib/issues"
     },
-    "homepage": "https://github.com/username/my-js-lib#readme",
+    "homepage": "https://github.com/phennapa-saeliw/my-js-lib#readme",
     "devDependencies": {
       "webpack": "^5.0.0",
       "webpack-cli": "^4.0.0"
