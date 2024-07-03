@@ -1,5 +1,5 @@
 {
-    "name": "my-js-lib",
+    "name": "foong-js-lib",
     "version": "1.0.0",
     "description": "A simple JavaScript library",
     "main": "dist/bundle.js",
